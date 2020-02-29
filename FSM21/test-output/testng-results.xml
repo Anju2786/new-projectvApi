@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2886" started-at="2020-02-24T07:53:55Z" finished-at="2020-02-24T07:53:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2886" started-at="2020-02-24T07:53:55Z" finished-at="2020-02-24T07:53:58Z">
+      <class name="com.FSM.ItemAPITest.ItemApi_GetTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:com.FSM.ItemAPITest.ItemApi_GetTest@3abbfa04]" name="config" is-config="true" duration-ms="577" started-at="2020-02-24T07:53:54Z" finished-at="2020-02-24T07:53:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="getTest()[pri:0, instance:com.FSM.ItemAPITest.ItemApi_GetTest@3abbfa04]" name="getTest" duration-ms="2859" started-at="2020-02-24T07:53:55Z" finished-at="2020-02-24T07:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+      </class> <!-- com.FSM.ItemAPITest.ItemApi_GetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
